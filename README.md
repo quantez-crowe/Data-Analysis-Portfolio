@@ -32,3 +32,11 @@ This section contains a number of projects based on the toolkit used to answer a
 **Skills:** data transformation (constructive, structural, aesthetic), data analysis
 
 **Tech:** Microsoft Excel
+
+## SQL
+
+**More to come**
+
+## Tableau
+
+**More to come**
