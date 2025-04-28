@@ -19,7 +19,7 @@ This section contains a number of projects based on the toolkit used to answer a
 
 **Skills:** data transformation (constructive, structural, aesthetic), data analysis, Microsoft Excel
 
-[Pokemon_analysis_1](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/Pokemon_analysis_1.xlsx))
+[Pokemon_analysis_1](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/Pokemon_analysis_1.xlsx)
 
 **Description:**  This [Kaggle](https://www.kaggle.com/datasets/abcsds/pokemon/data) dataset contains raw attributes associated with 721 characters from the popular video game Pokemon.
 
