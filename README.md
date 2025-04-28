@@ -12,7 +12,7 @@ This section contains a number of projects based on the toolkit used to answer a
 
 ## Excel
 
-###[Analyzing a Dataset for Diabetes Prediction](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/diabetes_dataset_analysis.xlsx)
+[Analyzing a Dataset for Diabetes Prediction](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/diabetes_dataset_analysis.xlsx)
 
 **Description:**  This [Kaggle](https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset) dataset contains information related to diabetes risk factors and associated health metrics.
 
