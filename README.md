@@ -18,5 +18,13 @@ Diabetes_dataset_analysis
 
 **Goal:** To showcase usage of Power Query to transform the data, usage of various Excel functions (ex. nested IF statements), and simple summaries of the data with pivot tables.
 
-**Skills:** data transformation (constructive, structural, aesthetic), data analysis
+**Skills:** data transformation (constructive, structural, aesthetic), data analysis, Microsoft Excel
 
+Pokemon_analysis_!
+[LINK](xx)
+
+**Description:**  This Kaggle dataset contains raw attributes associated with 721 characters from the popular video game Pokemon.
+
+**Goal:** To showcase usage XLOOKUP, pivot tables, charts, and other Excel functions.
+
+**Skills:** data transformation (constructive, structural, aesthetic), data analysis, Microsoft Excel
