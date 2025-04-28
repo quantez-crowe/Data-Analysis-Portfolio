@@ -14,16 +14,16 @@ This section contains a number of projects based on the toolkit used to answer a
 Diabetes_dataset_analysis
 [LINK](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/diabetes_dataset_analysis.xlsx)
 
-**Description:**  This Kaggle dataset contains information related to diabetes risk factors and associated health metrics.
+**Description:**  This [Kaggle](https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset) dataset contains information related to diabetes risk factors and associated health metrics.
 
 **Goal:** To showcase usage of Power Query to transform the data, usage of various Excel functions (ex. nested IF statements), and simple summaries of the data with pivot tables.
 
 **Skills:** data transformation (constructive, structural, aesthetic), data analysis, Microsoft Excel
 
 Pokemon_analysis_!
-[LINK](xx)
+[LINK]([xx](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/Pokemon_analysis_1.xlsx))
 
-**Description:**  This Kaggle dataset contains raw attributes associated with 721 characters from the popular video game Pokemon.
+**Description:**  This [Kaggle](https://www.kaggle.com/datasets/abcsds/pokemon/data) dataset contains raw attributes associated with 721 characters from the popular video game Pokemon.
 
 **Goal:** To showcase usage XLOOKUP, pivot tables, charts, and other Excel functions.
 
