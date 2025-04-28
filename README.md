@@ -12,7 +12,7 @@ This section contains a number of projects based on the toolkit used to answer a
 
 ### Excel
 Diabetes_dataset_analysis
-[LINK](https://github.com/quantez-crowe/Excel-Projects/blob/ca5206af6fea3de7f0e6ab26474ebad585735002/diabetes_dataset_analysis.xlsx)
+[LINK](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/diabetes_dataset_analysis.xlsx)
 
 **Description:**  This Kaggle dataset contains information related to diabetes risk factors and associated health metrics.
 
