@@ -49,4 +49,16 @@ This section contains a number of projects based on the toolkit used to answer a
 
 **Tech:** Tableau
 
+
+
+[FAA Wildlife Strikes, 2000-2015 Dashboard](https://public.tableau.com/views/FAAWildlifeStrikes2015_17460449973190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Description:**  This [Tableau](https://public.tableau.com/app/learn/sample-data) sample dataset contains records of wildlife strikes reported by airlines, airports, pilots, and other sources from 2000-2015.
+
+**Goal:** To showcase general knowlege of Tableau, including dashboard creation, presentation
+
+**Skills:** data visualization, presentation, analysis
+
+**Tech:** Tableau
+
 **More to come**
