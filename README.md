@@ -39,4 +39,14 @@ This section contains a number of projects based on the toolkit used to answer a
 
 ## Tableau
 
+[Super Sample Superstore Dashboard](https://public.tableau.com/views/SuperStoreDataProject_17441375851880/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Description:**  This [Tableau](https://public.tableau.com/app/learn/sample-data) sample dataset contains product, sales, and profit data for a fictitious company.
+
+**Goal:** To showcase general knowlege of Tableau, including dashboard creation, presentation
+
+**Skills:** data visualization, presentation, analysis
+
+**Tech:** Tableau
+
 **More to come**
