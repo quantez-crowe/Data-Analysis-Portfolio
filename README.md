@@ -35,9 +35,9 @@ This section contains a number of projects based on the toolkit used to answer a
 
 ## SQL
 
-[Code](xx)
+[GitHub SQL Sample Dataset](https://github.com/quantez-crowe/SQL-Code/blob/0b036c9cafe02552ce719de3f29bdb7e50791f4c/GitHubSQLProject20250502.sql)
 
-**Description:**  I utilzied ChatGPT to generate three unique datasets (customers, orders, products) in order to execute SQL queries with [SQLiteOnline](xx).
+**Description:**  I utilzied ChatGPT to generate three unique datasets (customers, orders, products) in order to execute SQL queries with [SQLiteOnline](https://sqliteonline.com/).
 
 **Goal:** To demonstrate my knowledge of various SQL functions to load and transform data.
 
