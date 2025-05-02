@@ -35,7 +35,15 @@ This section contains a number of projects based on the toolkit used to answer a
 
 ## SQL
 
-**More to come**
+[Code](xx)
+
+**Description:**  I utilzied ChatGPT to generate three unique datasets (customers, orders, products) in order to execute SQL queries with [SQLiteOnline](xx).
+
+**Goal:** To demonstrate my knowledge of various SQL functions to load and transform data.
+
+**Skills:** SELECT queries, aggregate functions, date functions, JOINs, window functions, subqueries/nested queries
+
+**Tech:** SQL (SQLite)
 
 ## Tableau
 
