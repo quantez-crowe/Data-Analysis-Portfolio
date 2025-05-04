@@ -39,9 +39,20 @@ This section contains a number of projects based on the toolkit used to answer a
 
 **Description:**  I utilzied ChatGPT to generate three unique datasets (customers, orders, products) in order to execute SQL queries with [SQLiteOnline](https://sqliteonline.com/).
 
-**Goal:** To demonstrate my knowledge of various SQL functions to load and transform data.
+**Goal:** To demonstrate my knowledge of various SQL functions to load and transform data, and provide some general insights.
 
 **Skills:** SELECT queries, aggregate functions, date functions, JOINs, window functions, subqueries/nested queries
+
+**Tech:** SQL (SQLite)
+
+
+[GitHub SQL Sample Dataset 2](https://github.com/quantez-crowe/SQL-Code/blob/e1c8e11e27572b7edee01f9d713f7fa9c814a21b/GitHubSQLProject_healthcare_20250503.txt)
+
+**Description:**  I utilzied ChatGPT to generate three unique datasets, this time focused on healthcare data (patients, appointments, prescriptions) in order to execute general SQL queries with [SQLiteOnline](https://sqliteonline.com/).
+
+**Goal:** To demonstrate my knowledge of various SQL functions to load and transform data, and provide some general insights.
+
+**Skills:** SELECT queries, JOINs, etc.
 
 **Tech:** SQL (SQLite)
 
