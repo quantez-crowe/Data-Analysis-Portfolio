@@ -60,9 +60,11 @@ This section contains a number of projects based on the toolkit used to answer a
 
 [Superstore Sales Dashboard](https://public.tableau.com/views/SuperStoreDataProject_17441375851880/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Description:**  This [Tableau](https://public.tableau.com/app/learn/sample-data) sample dataset contains product, sales, and profit data for a fictitious company. You may find my insights [here]([xx](https://github.com/quantez-crowe/Insights/blob/9200db1866b6be269fe351c650102c6e59bcfb91/README%20(SuperStore).md)).
+**Description:**  This sample dataset contains product, sales, and profit data for a fictitious company. You may find my insights [here]([xx](https://github.com/quantez-crowe/Insights/blob/9200db1866b6be269fe351c650102c6e59bcfb91/README%20(SuperStore).md)).
 
 **Goal:** To showcase general knowlege of Tableau, including dashboard creation, presentation
+
+**Source:** [datasource](https://public.tableau.com/app/learn/sample-data)
 
 **Skills:** data visualization, presentation, analysis
 
@@ -72,9 +74,11 @@ This section contains a number of projects based on the toolkit used to answer a
 
 [FAA Wildlife Strikes, 2000-2015 Dashboard](https://public.tableau.com/views/FAAWildlifeStrikes2015_17460449973190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Description:**  This [Tableau](https://public.tableau.com/app/learn/sample-data) sample dataset contains records of wildlife strikes reported by airlines, airports, pilots, and other sources from 2000-2015. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/7c7657f38365a6ad1d37459956f5a1a80bcf3d99/README%20(FAA%20Dashboard).md).
+**Description:**  This sample dataset contains records of wildlife strikes reported by airlines, airports, pilots, and other sources from 2000-2015. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/7c7657f38365a6ad1d37459956f5a1a80bcf3d99/README%20(FAA%20Dashboard).md).
 
 **Goal:** To showcase general knowlege of Tableau, including dashboard creation, presentation
+
+**Source:** [datasource](https://public.tableau.com/app/learn/sample-data) 
 
 **Skills:** data visualization, presentation, analysis
 
@@ -84,9 +88,11 @@ This section contains a number of projects based on the toolkit used to answer a
 
 [Airbnb Listings in New York City Dashboard](https://public.tableau.com/views/NYCAirBnBListings_17460359794430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Description:**  This [Tableau](https://public.tableau.com/app/learn/sample-data) sample dataset contains Airbnb listings, including data on hosts, locatoin, price, and customer review data. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/e951d921d2e4c73fb66c21db8c03246cc03e3aa4/README%20(Airbnb).md).
+**Description:**  This sample dataset contains Airbnb listings, including data on hosts, locatoin, price, and customer review data. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/e951d921d2e4c73fb66c21db8c03246cc03e3aa4/README%20(Airbnb).md).
 
 **Goal:** To showcase general knowlege of Tableau, including dashboard creation, presentation
+
+**Source:** [datasource](https://public.tableau.com/app/learn/sample-data)
 
 **Skills:** data visualization, presentation, analysis
 
