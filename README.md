@@ -80,4 +80,17 @@ This section contains a number of projects based on the toolkit used to answer a
 
 **Tech:** Tableau
 
+
+
+[Airbnb Listings in New York City Dashboard](https://public.tableau.com/views/NYCAirBnBListings_17460359794430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Description:**  This [Tableau](https://public.tableau.com/app/learn/sample-data) sample dataset contains Airbnb listings, including data on hosts, locatoin, price, and customer review data. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/7c7657f38365a6ad1d37459956f5a1a80bcf3d99/README%20(FAA%20Dashboard).md).
+
+**Goal:** To showcase general knowlege of Tableau, including dashboard creation, presentation
+
+**Skills:** data visualization, presentation, analysis
+
+**Tech:** Tableau
+
+
 **More to come**
