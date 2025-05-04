@@ -14,7 +14,7 @@ This section contains a number of projects based on the toolkit used to answer a
 
 [Analyzing a Dataset for Diabetes Prediction](https://github.com/quantez-crowe/Excel_Documents/blob/bf440b6a3868db30e5f92f203c9eaf8914449443/diabetes_dataset_analysis.xlsx)
 
-**Description:**  This [Kaggle](https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset) dataset contains information related to diabetes risk factors and associated health metrics. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/08359ec53166a43634b4777d15720839608829f3/README%20(Diabetes%20XLS).md).
+**Description:**  This [Kaggle](https://www.kaggle.com/datasets/marshalpatel3558/diabetes-prediction-dataset) dataset contains information related to diabetes risk factors and associated health metrics. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/e951d921d2e4c73fb66c21db8c03246cc03e3aa4/README%20(Diabetes%20XLS).md).
 
 **Goal:** To showcase usage of Power Query to transform the data, usage of various Excel functions (ex. nested IF statements), and simple summaries of the data with pivot tables.
 
