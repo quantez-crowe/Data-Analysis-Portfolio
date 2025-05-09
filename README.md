@@ -58,6 +58,20 @@ This section contains a number of projects based on the toolkit used to answer a
 
 ## Tableau
 
+[Greenhouse Gas Emissions Dashboard](https://public.tableau.com/views/2012-2022GHGState-LevelEmissionsTotals/GHGEmissionsCO2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Description:**  This EPA dataset contains greenhouse gas emission data for the United States, stratified by state, sector, and year. 
+
+**Goal:** To showcase general knowlege of Tableau, including dashboard creation, presentation
+
+**Source:** [datasource](https://catalog.data.gov/dataset/2012-2022-state-level-greenhouse-gas-emission-totals-by-industry)
+
+**Skills:** data visualization, presentation, analysis
+
+**Tech:** Tableau
+
+
+
 [Superstore Sales Dashboard](https://public.tableau.com/views/SuperStoreDataProject_17441375851880/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Description:**  This sample dataset contains product, sales, and profit data for a fictitious company. You may find my insights [here](https://github.com/quantez-crowe/Insights/blob/e951d921d2e4c73fb66c21db8c03246cc03e3aa4/README%20(SuperStore).md).
