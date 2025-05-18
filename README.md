@@ -1,7 +1,7 @@
 # Overview
 The purpose of this repository is to showcase my data analysis skills via projects based on public data from a variety of sources. These analyses will be performed predominantly in Excel, with some visualizations in Tableau (linked) and some example SQL queries. The aim of these exercises is to demonstrate my knowledge of the software and how I solve various tasks, such as data cleansing and visualization.
 
-Here is my most recent version of my [resume](https://github.com/quantez-crowe/Resume/blob/24213a59df6477b273d267541668da945ecd1119/Quantez%20Crowe%20Resume%202025%20v7.docx).
+Here is my most recent version of my [resume](https://github.com/quantez-crowe/Resume/blob/24213a59df6477b273d267541668da945ecd1119/Quantez%20Crowe%20Resume%202025%20v7.docx) (select View Raw to download).
 
 _Additional experience can be found under my LinkedIn profile: www.linkedin.com/in/quantez-crowe_
 
